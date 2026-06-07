@@ -1,4 +1,0 @@
-0(.png)	->none
-1		->side top
-2		->side bottom
-3		->top and bottom
